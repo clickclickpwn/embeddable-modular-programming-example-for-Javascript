@@ -12,7 +12,7 @@ Many programmers use _import_ and _export_, and multiple files, but I wanted to 
 How this trick works is, you create your modules with the script tag, then you give them Id's to be called as objects.
 
 
-# Modules are just individual ***<scripts>*** in seperate files. 
+# Modules are just individual ***scripts*** in seperate files. 
 
 The difference between this and regualar module programming of javascript is:
 
