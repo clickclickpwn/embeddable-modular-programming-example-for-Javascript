@@ -42,7 +42,7 @@ _all embeddable_.
 Two scripts interacting and calling each other, from two seperate tags in the same html file.
 
 
-This is Unlicensed, as a thank you to <sup>god</sup> for giving me the privilege, Codecademy for the free knowledge, and chatGPT for the free helper to solve this complex problem that school couldnt.
+This is Unlicensed, as a thank you to ***<sup>god</sup>*** for giving me the privilege, Codecademy for the free knowledge, and chatGPT for the free helper to solve this complex problem that school couldn't.
 
 
 
